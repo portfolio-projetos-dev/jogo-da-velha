@@ -1,4 +1,4 @@
-# 🎬 jogo-da-velha
+# 🇴 Jogo da Velha 🇽
 
 <div align="center">
 <img src="https://github.com/portfolio-projetos-dev/jogo-da-velha/raw/main/.gitassets/capa.png" width="350" />
@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </div>
 </div>
 
-DESCRIÇÃO
+O projeto Jogo da Velha é uma aplicação que apresenta o clássico jogo da velha com um diferencial: um sistema de contagem de vitórias para os jogadores X e O. A cada partida concluída, o placar é atualizado automaticamente, permitindo que os jogadores acompanhem o desempenho de cada lado ao longo das rodadas.
+
+Com uma interface intuitiva e minimalista, o projeto é ideal para partidas rápidas e competitivas entre amigos ou familiares. O projeto também inclui a opção de reiniciar o placar a qualquer momento, garantindo que novas competições possam começar do zero.
 
 ## 🖥️ Como rodar este projeto 🖥️
 
@@ -31,35 +31,36 @@ DESCRIÇÃO
 
 1. Clone este repositório:
 
-    ```sh
-    git clone https://github.com/portfolio-projetos-dev/jogo-da-velha
-    ```
+   ```sh
+   git clone https://github.com/portfolio-projetos-dev/jogo-da-velha
+   ```
 
 2. Acesse o diretório do projeto:
 
-    ```sh
-    cd jogo-da-velha
-    ```
+   ```sh
+   cd jogo-da-velha
+   ```
 
 3. Instale as dependências:
 
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 
 4. Inicie o servidor (Next.js):
 
-    ```sh
-    npm run dev
-    ```
+   ```sh
+   npm run dev
+   ```
 
 5. Acesse o projeto em [http://localhost:3000](http://localhost:3000).
 
 ## 🗒️ Features do projeto 🗒️
 
-- OUTRO
-- OUTRO
-- OUTRO
+- Interface simples e funcional para partidas tradicionais de jogo da velha.
+- Sistema automático que registra e exibe o número de vitórias do jogador X, do jogador O e empates.
+- Opção para zerar o contador de vitórias e empates, iniciando uma nova competição do zero.
+- Indica claramente o vencedor da partida (X ou O) ou informa se houve empate.
 
 ![](https://github.com/portfolio-projetos-dev/jogo-da-velha/raw/main/.gitassets/1.png)
 
